@@ -1,0 +1,12 @@
+
+#profile segment header {
+  background-color: #149C14;
+}
+
+#profile segment header::before {
+  background-color: #026702;
+}
+
+#profile header {
+  color: #149C14;
+}

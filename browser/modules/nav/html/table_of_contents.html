@@ -1,0 +1,9 @@
+<div ng-class="{active: showTOC}">
+  <b ng-click="toggleTOC()">
+    <i ng-class="tocClass"></i>
+    Table of Contents
+  </b>
+  <ul>
+    <toc-item item="table" ng-show="showTOC"></toc-item>    
+  </ul>
+</div>
