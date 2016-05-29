@@ -6,7 +6,9 @@ gem 'mongoid', '~> 5.1.3'
 # Assetts
 gem 'sass-rails', '~> 5.0'
 gem 'coffee-rails', '~> 4.1.0'
-gem 'turbolinks'
+gem 'turbolinks' # TODO: add version
+gem 'uglifier' # TODO: add version
+
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.0'
