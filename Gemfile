@@ -29,8 +29,7 @@ group :development, :test do
   # advanced features for better_errors
   # TODO: configure!!
   # https://github.com/banister/binding_of_caller
-  gem "binding_of_caller", '~> 0.7.3'
-
+  gem "binding_of_caller", '~> 0.7.2'
 
 end
 
