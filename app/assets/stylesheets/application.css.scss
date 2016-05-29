@@ -13,3 +13,20 @@
  *= require_tree .
  *= require_self
  */
+
+html {
+  font-family:Verdana, Geneva, sans-serif;
+  top:0px;
+  background-attachment: fixed;
+  height:100%;
+  padding: 0;
+  margin:0;
+  background-color: #EEE;
+  background-image: repeating-linear-gradient(
+    45deg,
+    transparent,
+    transparent 15px,
+    rgba(0,0,0,0.01) 15px,
+    rgba(0,0,0,0.01) 30px
+  );
+}

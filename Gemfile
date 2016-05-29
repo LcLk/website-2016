@@ -6,6 +6,7 @@ gem 'mongoid', '~> 5.1.3'
 # Assetts
 gem 'sass-rails', '~> 5.0'
 gem 'coffee-rails', '~> 4.1.0'
+gem 'turbolinks'
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.0'

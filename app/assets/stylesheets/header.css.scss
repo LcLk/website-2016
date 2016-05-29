@@ -1,0 +1,23 @@
+/*
+ *= require_self
+ */
+
+.header {
+  width: 100%;
+  margin: 0;
+  padding: 3px 10px;
+  position: fixed;
+  height: 26px;
+  a.logo {
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #000;
+    &:hover,
+    &:visited,
+    &:active{
+      text-decoration: none;
+      color: #000;
+    }
+  }
+}
