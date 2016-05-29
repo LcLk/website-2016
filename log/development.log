@@ -2221,3 +2221,1284 @@ Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8b
 
 
 Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 13:38:51 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 13:40:05 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered application/_navigation.html.erb (0.0ms)
+  Rendered application/_header.html.erb (1.2ms)
+Completed 200 OK in 42ms (Views: 40.9ms)
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 13:40:06 +0100
+
+
+Started GET "/assets/header.self-63907e37fe8d58dbfbb042ab022fc55caa6c7bf562ae40ee09dddee37876a3b2.css?body=1" for 127.0.0.1 at 2016-05-29 13:40:06 +0100
+
+
+Started GET "/assets/navigation.self-cd7bf93d25edf40c43583707e9b57269b2e56b1579cbde17ac2b9638583878b3.css?body=1" for 127.0.0.1 at 2016-05-29 13:40:06 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 13:40:06 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 13:40:06 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 13:40:06 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:26:13 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+  Rendered application/_navigation.html.erb (0.0ms)
+  Rendered application/_header.html.erb (1.2ms)
+Completed 200 OK in 48ms (Views: 46.5ms)
+
+
+Started GET "/assets/navigation.self-4af4227c1250ef5e29f6bfc9b59aa95215b43610fb5cdfb52eac4451cf2a3914.css?body=1" for 127.0.0.1 at 2016-05-29 14:26:13 +0100
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 14:26:13 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 14:26:14 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 14:26:14 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 14:26:14 +0100
+
+
+Started GET "/assets/header.self-63907e37fe8d58dbfbb042ab022fc55caa6c7bf562ae40ee09dddee37876a3b2.css?body=1" for 127.0.0.1 at 2016-05-29 14:26:14 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:26:15 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered application/_navigation.html.erb (0.0ms)
+  Rendered application/_header.html.erb (1.2ms)
+Completed 200 OK in 32ms (Views: 30.8ms)
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 14:26:15 +0100
+
+
+Started GET "/assets/navigation.self-4af4227c1250ef5e29f6bfc9b59aa95215b43610fb5cdfb52eac4451cf2a3914.css?body=1" for 127.0.0.1 at 2016-05-29 14:26:15 +0100
+
+
+Started GET "/assets/header.self-63907e37fe8d58dbfbb042ab022fc55caa6c7bf562ae40ee09dddee37876a3b2.css?body=1" for 127.0.0.1 at 2016-05-29 14:26:15 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 14:26:15 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 14:26:15 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 14:26:15 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:26:38 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered application/_navigation.html.erb (0.0ms)
+  Rendered application/_header.html.erb (1.2ms)
+Completed 200 OK in 60ms (Views: 58.5ms)
+
+
+Started GET "/assets/navigation.self-0dfb1ed948b2d51bf71f4c4b5a25c21f535bf45b07d48c809b29aac43cd279bf.css?body=1" for 127.0.0.1 at 2016-05-29 14:26:38 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 14:26:38 +0100
+
+
+Started GET "/assets/header.self-63907e37fe8d58dbfbb042ab022fc55caa6c7bf562ae40ee09dddee37876a3b2.css?body=1" for 127.0.0.1 at 2016-05-29 14:26:38 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 14:26:38 +0100
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 14:26:38 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 14:26:38 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:27:09 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered application/_navigation.html.erb (0.0ms)
+  Rendered application/_header.html.erb (0.9ms)
+Completed 200 OK in 40ms (Views: 39.3ms)
+
+
+Started GET "/assets/navigation.self-74dd7224862f92489a0b2aca4da0e5090d4ecd4c7b8a75cd272c2a88378ed1a9.css?body=1" for 127.0.0.1 at 2016-05-29 14:27:09 +0100
+
+
+Started GET "/assets/header.self-63907e37fe8d58dbfbb042ab022fc55caa6c7bf562ae40ee09dddee37876a3b2.css?body=1" for 127.0.0.1 at 2016-05-29 14:27:09 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 14:27:09 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 14:27:09 +0100
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 14:27:09 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 14:27:09 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:27:18 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered application/_navigation.html.erb (0.1ms)
+  Rendered application/_header.html.erb (1.6ms)
+Completed 200 OK in 53ms (Views: 51.9ms)
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 14:27:18 +0100
+
+
+Started GET "/assets/header.self-63907e37fe8d58dbfbb042ab022fc55caa6c7bf562ae40ee09dddee37876a3b2.css?body=1" for 127.0.0.1 at 2016-05-29 14:27:18 +0100
+
+
+Started GET "/assets/navigation.self-5423ed27b3de54299e7e8f521ed67fe974e9000f0a0e0e035cb89b0810261388.css?body=1" for 127.0.0.1 at 2016-05-29 14:27:18 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 14:27:18 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 14:27:18 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 14:27:18 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:27:25 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered application/_navigation.html.erb (0.0ms)
+  Rendered application/_header.html.erb (0.9ms)
+Completed 200 OK in 42ms (Views: 41.7ms)
+
+
+Started GET "/assets/navigation.self-6d79402e0cd6eaf4812779037a2287847044ccaaf1080d42b8271e645d9eb1de.css?body=1" for 127.0.0.1 at 2016-05-29 14:27:25 +0100
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 14:27:25 +0100
+
+
+Started GET "/assets/header.self-63907e37fe8d58dbfbb042ab022fc55caa6c7bf562ae40ee09dddee37876a3b2.css?body=1" for 127.0.0.1 at 2016-05-29 14:27:25 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 14:27:25 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 14:27:25 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 14:27:25 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:27:26 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+  Rendered application/_navigation.html.erb (0.0ms)
+  Rendered application/_header.html.erb (1.3ms)
+Completed 200 OK in 27ms (Views: 26.1ms)
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 14:27:26 +0100
+
+
+Started GET "/assets/navigation.self-6d79402e0cd6eaf4812779037a2287847044ccaaf1080d42b8271e645d9eb1de.css?body=1" for 127.0.0.1 at 2016-05-29 14:27:26 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 14:27:26 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 14:27:26 +0100
+
+
+Started GET "/assets/header.self-63907e37fe8d58dbfbb042ab022fc55caa6c7bf562ae40ee09dddee37876a3b2.css?body=1" for 127.0.0.1 at 2016-05-29 14:27:26 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 14:27:26 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:28:14 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered application/_navigation.html.erb (0.1ms)
+  Rendered application/_header.html.erb (1.6ms)
+Completed 200 OK in 53ms (Views: 52.4ms)
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 14:28:15 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 14:28:15 +0100
+
+
+Started GET "/assets/header.self-4b537f4d50adec0fa9851dfcb3e93c86d2e9cd35d51708e744cef4fe90605a0e.css?body=1" for 127.0.0.1 at 2016-05-29 14:28:15 +0100
+
+
+Started GET "/assets/navigation.self-6d79402e0cd6eaf4812779037a2287847044ccaaf1080d42b8271e645d9eb1de.css?body=1" for 127.0.0.1 at 2016-05-29 14:28:15 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 14:28:15 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 14:28:15 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:28:15 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+  Rendered application/_navigation.html.erb (0.0ms)
+  Rendered application/_header.html.erb (0.9ms)
+Completed 200 OK in 18ms (Views: 17.4ms)
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 14:28:15 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 14:28:15 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 14:28:15 +0100
+
+
+Started GET "/assets/header.self-4b537f4d50adec0fa9851dfcb3e93c86d2e9cd35d51708e744cef4fe90605a0e.css?body=1" for 127.0.0.1 at 2016-05-29 14:28:15 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 14:28:15 +0100
+
+
+Started GET "/assets/navigation.self-6d79402e0cd6eaf4812779037a2287847044ccaaf1080d42b8271e645d9eb1de.css?body=1" for 127.0.0.1 at 2016-05-29 14:28:15 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:28:35 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered application/_navigation.html.erb (0.1ms)
+  Rendered application/_header.html.erb (1.4ms)
+Completed 200 OK in 44ms (Views: 43.2ms)
+
+
+Started GET "/assets/navigation.self-8272b8dd843f8aeb5338c2d9ed1890206c46ae1884e564fc0ed1c93b1cc4c762.css?body=1" for 127.0.0.1 at 2016-05-29 14:28:35 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 14:28:35 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 14:28:35 +0100
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 14:28:35 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 14:28:35 +0100
+
+
+Started GET "/assets/header.self-4b537f4d50adec0fa9851dfcb3e93c86d2e9cd35d51708e744cef4fe90605a0e.css?body=1" for 127.0.0.1 at 2016-05-29 14:28:35 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:29:17 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered application/_navigation.html.erb (0.0ms)
+  Rendered application/_header.html.erb (1.0ms)
+Completed 200 OK in 51ms (Views: 50.0ms)
+
+
+Started GET "/assets/navigation.self-1ce44da2f42e7a23dbb6d20ca9773720a1696901d128bdd750d4122a24c1b28b.css?body=1" for 127.0.0.1 at 2016-05-29 14:29:17 +0100
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 14:29:17 +0100
+
+
+Started GET "/assets/header.self-4b537f4d50adec0fa9851dfcb3e93c86d2e9cd35d51708e744cef4fe90605a0e.css?body=1" for 127.0.0.1 at 2016-05-29 14:29:17 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 14:29:17 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 14:29:17 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 14:29:17 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:30:08 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered application/_navigation.html.erb (0.1ms)
+  Rendered application/_header.html.erb (1.8ms)
+Completed 200 OK in 64ms (Views: 62.9ms)
+
+
+Started GET "/assets/header.self-246edb3aacba0516bb7e6a0dfca335b57fb8b167eb3c04f4d94e8b745746ac6b.css?body=1" for 127.0.0.1 at 2016-05-29 14:30:08 +0100
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 14:30:08 +0100
+
+
+Started GET "/assets/navigation.self-1ce44da2f42e7a23dbb6d20ca9773720a1696901d128bdd750d4122a24c1b28b.css?body=1" for 127.0.0.1 at 2016-05-29 14:30:08 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 14:30:08 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 14:30:08 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 14:30:08 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:35:44 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered application/_navigation.html.erb (0.1ms)
+  Rendered application/_header.html.erb (1.6ms)
+Completed 200 OK in 51ms (Views: 49.8ms)
+
+
+Started GET "/assets/navigation.self-e67ab46ef90ce04955eb66e3f99efd17b507cd2685d61e3f2d3fec5cc825a613.css?body=1" for 127.0.0.1 at 2016-05-29 14:35:44 +0100
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 14:35:44 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 14:35:44 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 14:35:44 +0100
+
+
+Started GET "/assets/header.self-246edb3aacba0516bb7e6a0dfca335b57fb8b167eb3c04f4d94e8b745746ac6b.css?body=1" for 127.0.0.1 at 2016-05-29 14:35:44 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 14:35:44 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:37:49 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered application/_navigation.html.erb (0.1ms)
+  Rendered application/_header.html.erb (1.1ms)
+Completed 200 OK in 53ms (Views: 52.2ms)
+
+
+Started GET "/assets/header.self-f9c5cc518798b2381303831a5aba7f55b2b90667d661283332c62d9fd4237a9c.css?body=1" for 127.0.0.1 at 2016-05-29 14:37:49 +0100
+
+
+Started GET "/assets/navigation.self-e67ab46ef90ce04955eb66e3f99efd17b507cd2685d61e3f2d3fec5cc825a613.css?body=1" for 127.0.0.1 at 2016-05-29 14:37:49 +0100
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 14:37:49 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 14:37:49 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 14:37:49 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 14:37:49 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:38:44 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered application/_navigation.html.erb (0.0ms)
+  Rendered application/_header.html.erb (1.1ms)
+Completed 200 OK in 69ms (Views: 67.6ms)
+
+
+Started GET "/assets/header.self-8bedd70ba6df23501c63ea71fb312a7990b68b587b1ed766930f8c77810a4345.css?body=1" for 127.0.0.1 at 2016-05-29 14:38:44 +0100
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 14:38:44 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 14:38:44 +0100
+
+
+Started GET "/assets/navigation.self-9c06def39bb2394082e6fbff4db91689e10c76fb8897dab4abb047341e2f675e.css?body=1" for 127.0.0.1 at 2016-05-29 14:38:44 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 14:38:44 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 14:38:44 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:39:12 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered application/_navigation.html.erb (0.0ms)
+  Rendered application/_header.html.erb (0.8ms)
+Completed 200 OK in 56ms (Views: 55.0ms)
+
+
+Started GET "/assets/header.self-c39043bfe6329c570439d73e71bdb34724562db1366d5d4ad466333ed1eed870.css?body=1" for 127.0.0.1 at 2016-05-29 14:39:12 +0100
+
+
+Started GET "/assets/navigation.self-9c06def39bb2394082e6fbff4db91689e10c76fb8897dab4abb047341e2f675e.css?body=1" for 127.0.0.1 at 2016-05-29 14:39:12 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 14:39:12 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 14:39:12 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 14:39:12 +0100
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 14:39:12 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:39:13 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered application/_navigation.html.erb (0.1ms)
+  Rendered application/_header.html.erb (1.8ms)
+Completed 200 OK in 23ms (Views: 22.2ms)
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 14:39:13 +0100
+
+
+Started GET "/assets/header.self-c39043bfe6329c570439d73e71bdb34724562db1366d5d4ad466333ed1eed870.css?body=1" for 127.0.0.1 at 2016-05-29 14:39:13 +0100
+
+
+Started GET "/assets/navigation.self-9c06def39bb2394082e6fbff4db91689e10c76fb8897dab4abb047341e2f675e.css?body=1" for 127.0.0.1 at 2016-05-29 14:39:13 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 14:39:13 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 14:39:13 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 14:39:13 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:39:19 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered application/_navigation.html.erb (0.0ms)
+  Rendered application/_header.html.erb (1.0ms)
+Completed 200 OK in 42ms (Views: 41.0ms)
+
+
+Started GET "/assets/header.self-2fef4ed55ef8aa5e8e592d4b02430fb5c05c2587d376f8172b3ca685415ff02b.css?body=1" for 127.0.0.1 at 2016-05-29 14:39:19 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 14:39:19 +0100
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 14:39:19 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 14:39:19 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 14:39:19 +0100
+
+
+Started GET "/assets/navigation.self-9c06def39bb2394082e6fbff4db91689e10c76fb8897dab4abb047341e2f675e.css?body=1" for 127.0.0.1 at 2016-05-29 14:39:19 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:41:15 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered application/_navigation.html.erb (0.0ms)
+  Rendered application/_header.html.erb (1.1ms)
+Completed 200 OK in 55ms (Views: 53.7ms)
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 14:41:15 +0100
+
+
+Started GET "/assets/navigation.self-9c06def39bb2394082e6fbff4db91689e10c76fb8897dab4abb047341e2f675e.css?body=1" for 127.0.0.1 at 2016-05-29 14:41:15 +0100
+
+
+Started GET "/assets/header.self-012cd7a292f91b3cb6e04cccd1b608f98af9f5c2f0346b8ccaf3e02cd778bda5.css?body=1" for 127.0.0.1 at 2016-05-29 14:41:15 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 14:41:15 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 14:41:15 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 14:41:15 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:41:26 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered application/_navigation.html.erb (0.0ms)
+  Rendered application/_header.html.erb (0.9ms)
+Completed 200 OK in 41ms (Views: 40.0ms)
+
+
+Started GET "/assets/header.self-3cb86c93b518ffc486893fd1607b6d8f77099c990d924b08ff9cf68c43817f9b.css?body=1" for 127.0.0.1 at 2016-05-29 14:41:26 +0100
+
+
+Started GET "/assets/navigation.self-9c06def39bb2394082e6fbff4db91689e10c76fb8897dab4abb047341e2f675e.css?body=1" for 127.0.0.1 at 2016-05-29 14:41:26 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 14:41:26 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 14:41:26 +0100
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 14:41:26 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 14:41:26 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:41:27 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered application/_navigation.html.erb (0.1ms)
+  Rendered application/_header.html.erb (1.7ms)
+Completed 200 OK in 27ms (Views: 25.7ms)
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 14:41:27 +0100
+
+
+Started GET "/assets/header.self-3cb86c93b518ffc486893fd1607b6d8f77099c990d924b08ff9cf68c43817f9b.css?body=1" for 127.0.0.1 at 2016-05-29 14:41:27 +0100
+
+
+Started GET "/assets/navigation.self-9c06def39bb2394082e6fbff4db91689e10c76fb8897dab4abb047341e2f675e.css?body=1" for 127.0.0.1 at 2016-05-29 14:41:27 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 14:41:27 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 14:41:27 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 14:41:27 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:41:34 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered application/_navigation.html.erb (0.0ms)
+  Rendered application/_header.html.erb (0.9ms)
+Completed 200 OK in 40ms (Views: 39.1ms)
+
+
+Started GET "/assets/header.self-d43cf4c0c0f4090bc99393d308717f1587f2bbd1fb1de701ca2cf2122bec46ee.css?body=1" for 127.0.0.1 at 2016-05-29 14:41:34 +0100
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 14:41:34 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 14:41:34 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 14:41:34 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 14:41:34 +0100
+
+
+Started GET "/assets/navigation.self-9c06def39bb2394082e6fbff4db91689e10c76fb8897dab4abb047341e2f675e.css?body=1" for 127.0.0.1 at 2016-05-29 14:41:34 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:42:18 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered application/_navigation.html.erb (0.0ms)
+  Rendered application/_header.html.erb (1.2ms)
+Completed 200 OK in 59ms (Views: 58.0ms)
+
+
+Started GET "/assets/navigation.self-8c4a9dcfaa3b19f65a16e3bd9bc5964b142ae03c924692f0d5fe880d563f1e78.css?body=1" for 127.0.0.1 at 2016-05-29 14:42:18 +0100
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 14:42:18 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 14:42:18 +0100
+
+
+Started GET "/assets/header.self-d43cf4c0c0f4090bc99393d308717f1587f2bbd1fb1de701ca2cf2122bec46ee.css?body=1" for 127.0.0.1 at 2016-05-29 14:42:18 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 14:42:18 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 14:42:18 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:42:46 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered application/_navigation.html.erb (0.0ms)
+  Rendered application/_header.html.erb (0.7ms)
+Completed 200 OK in 33ms (Views: 32.1ms)
+
+
+Started GET "/assets/navigation.self-5c020eb03951017e9f9036624ab254c59ccf6855cecae855e0724646c7ebf6cf.css?body=1" for 127.0.0.1 at 2016-05-29 14:42:47 +0100
+
+
+Started GET "/assets/header.self-d43cf4c0c0f4090bc99393d308717f1587f2bbd1fb1de701ca2cf2122bec46ee.css?body=1" for 127.0.0.1 at 2016-05-29 14:42:47 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 14:42:47 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 14:42:47 +0100
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 14:42:47 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 14:42:47 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:49:31 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered application/_navigation.html.erb (0.0ms)
+  Rendered application/_header.html.erb (0.9ms)
+Completed 200 OK in 48ms (Views: 46.6ms)
+
+
+Started GET "/assets/navigation.self-37997704d7083f02d4205d4e18a36eef761c9e1859e64edf54e40a880ce2d75c.css?body=1" for 127.0.0.1 at 2016-05-29 14:49:31 +0100
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 14:49:31 +0100
+
+
+Started GET "/assets/header.self-d43cf4c0c0f4090bc99393d308717f1587f2bbd1fb1de701ca2cf2122bec46ee.css?body=1" for 127.0.0.1 at 2016-05-29 14:49:31 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 14:49:31 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 14:49:31 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 14:49:31 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:52:37 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered application/_navigation.html.erb (0.0ms)
+  Rendered application/_header.html.erb (1.2ms)
+Completed 200 OK in 63ms (Views: 61.4ms)
+
+
+Started GET "/assets/header.self-645a083fd1df9bdba8a9c4cfb3848530e2abe1af42584a4b28c2edbb3b01c192.css?body=1" for 127.0.0.1 at 2016-05-29 14:52:37 +0100
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 14:52:37 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 14:52:37 +0100
+
+
+Started GET "/assets/navigation.self-37997704d7083f02d4205d4e18a36eef761c9e1859e64edf54e40a880ce2d75c.css?body=1" for 127.0.0.1 at 2016-05-29 14:52:37 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 14:52:37 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 14:52:37 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:52:47 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered application/_navigation.html.erb (0.0ms)
+  Rendered application/_header.html.erb (1.1ms)
+Completed 200 OK in 58ms (Views: 56.2ms)
+
+
+Started GET "/assets/header.self-42bbeb40e88f159a118f19dcc89683451bab53b842fd1d9e3883b25ce8554462.css?body=1" for 127.0.0.1 at 2016-05-29 14:52:47 +0100
+
+
+Started GET "/assets/navigation.self-37997704d7083f02d4205d4e18a36eef761c9e1859e64edf54e40a880ce2d75c.css?body=1" for 127.0.0.1 at 2016-05-29 14:52:47 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 14:52:47 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 14:52:47 +0100
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 14:52:47 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 14:52:47 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:53:42 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 37ms
+
+Sass::SyntaxError - Invalid CSS after "    position": expected ";", was ": absolute;":
+  sass (3.4.22) lib/sass/scss/parser.rb:1189:in `expected'
+  sass (3.4.22) lib/sass/scss/parser.rb:1125:in `expected'
+  sass (3.4.22) lib/sass/scss/parser.rb:1120:in `tok!'
+  sass (3.4.22) lib/sass/scss/parser.rb:777:in `block in try_declaration'
+  sass (3.4.22) lib/sass/scss/parser.rb:1165:in `rethrow'
+  sass (3.4.22) lib/sass/scss/parser.rb:782:in `try_declaration'
+  sass (3.4.22) lib/sass/scss/parser.rb:711:in `declaration_or_ruleset'
+  sass (3.4.22) lib/sass/scss/parser.rb:676:in `block_child'
+  sass (3.4.22) lib/sass/scss/parser.rb:665:in `block_contents'
+  sass (3.4.22) lib/sass/scss/parser.rb:657:in `block'
+  sass (3.4.22) lib/sass/scss/parser.rb:726:in `declaration_or_ruleset'
+  sass (3.4.22) lib/sass/scss/parser.rb:676:in `block_child'
+  sass (3.4.22) lib/sass/scss/parser.rb:668:in `block_contents'
+  sass (3.4.22) lib/sass/scss/parser.rb:657:in `block'
+  sass (3.4.22) lib/sass/scss/parser.rb:649:in `ruleset'
+  sass (3.4.22) lib/sass/scss/parser.rb:675:in `block_child'
+  sass (3.4.22) lib/sass/scss/parser.rb:665:in `block_contents'
+  sass (3.4.22) lib/sass/scss/parser.rb:125:in `stylesheet'
+  sass (3.4.22) lib/sass/scss/parser.rb:41:in `parse'
+  sass (3.4.22) lib/sass/engine.rb:406:in `_to_tree'
+  sass (3.4.22) lib/sass/engine.rb:281:in `render'
+  sass-rails (5.0.4) lib/sass/rails/template.rb:47:in `evaluate'
+  tilt (2.0.4) lib/tilt/template.rb:102:in `render'
+  sprockets (3.6.0) lib/sprockets/legacy_tilt_processor.rb:25:in `call'
+  sprockets (3.6.0) lib/sprockets/processor_utils.rb:75:in `call_processor'
+  sprockets (3.6.0) lib/sprockets/processor_utils.rb:57:in `block in call_processors'
+  sprockets (3.6.0) lib/sprockets/processor_utils.rb:56:in `call_processors'
+  sprockets (3.6.0) lib/sprockets/loader.rb:134:in `load_from_unloaded'
+  sprockets (3.6.0) lib/sprockets/loader.rb:60:in `block in load'
+  sprockets (3.6.0) lib/sprockets/loader.rb:317:in `fetch_asset_from_dependency_cache'
+  sprockets (3.6.0) lib/sprockets/loader.rb:44:in `load'
+  sprockets (3.6.0) lib/sprockets/cached_environment.rb:20:in `block in initialize'
+  sprockets (3.6.0) lib/sprockets/cached_environment.rb:47:in `load'
+  sprockets (3.6.0) lib/sprockets/bundle.rb:23:in `block in call'
+  sprockets (3.6.0) lib/sprockets/utils.rb:183:in `dfs'
+  sprockets (3.6.0) lib/sprockets/bundle.rb:24:in `call'
+  sprockets (3.6.0) lib/sprockets/processor_utils.rb:75:in `call_processor'
+  sprockets (3.6.0) lib/sprockets/processor_utils.rb:57:in `block in call_processors'
+  sprockets (3.6.0) lib/sprockets/processor_utils.rb:56:in `call_processors'
+  sprockets (3.6.0) lib/sprockets/loader.rb:134:in `load_from_unloaded'
+  sprockets (3.6.0) lib/sprockets/loader.rb:60:in `block in load'
+  sprockets (3.6.0) lib/sprockets/loader.rb:317:in `fetch_asset_from_dependency_cache'
+  sprockets (3.6.0) lib/sprockets/loader.rb:44:in `load'
+  sprockets (3.6.0) lib/sprockets/cached_environment.rb:20:in `block in initialize'
+  sprockets (3.6.0) lib/sprockets/cached_environment.rb:47:in `load'
+  sprockets (3.6.0) lib/sprockets/base.rb:66:in `find_asset'
+  sprockets (3.6.0) lib/sprockets/base.rb:92:in `[]'
+  sprockets-rails (3.0.4) lib/sprockets/rails/helper.rb:341:in `find_asset'
+  sprockets-rails (3.0.4) lib/sprockets/rails/helper.rb:333:in `find_debug_asset'
+  sprockets-rails (3.0.4) lib/sprockets/rails/helper.rb:216:in `block in lookup_debug_asset'
+  sprockets-rails (3.0.4) lib/sprockets/rails/helper.rb:229:in `block in resolve_asset'
+  sprockets-rails (3.0.4) lib/sprockets/rails/helper.rb:228:in `resolve_asset'
+  sprockets-rails (3.0.4) lib/sprockets/rails/helper.rb:215:in `lookup_debug_asset'
+  sprockets-rails (3.0.4) lib/sprockets/rails/helper.rb:157:in `block in stylesheet_link_tag'
+  sprockets-rails (3.0.4) lib/sprockets/rails/helper.rb:156:in `stylesheet_link_tag'
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__1692356507102806670_70339024647020'
+  actionview (4.2.6) lib/action_view/template.rb:145:in `block in render'
+  activesupport (4.2.6) lib/active_support/notifications.rb:166:in `instrument'
+  actionview (4.2.6) lib/action_view/template.rb:333:in `instrument'
+  actionview (4.2.6) lib/action_view/template.rb:143:in `render'
+  actionview (4.2.6) lib/action_view/renderer/template_renderer.rb:66:in `render_with_layout'
+  actionview (4.2.6) lib/action_view/renderer/template_renderer.rb:52:in `render_template'
+  actionview (4.2.6) lib/action_view/renderer/template_renderer.rb:14:in `render'
+  actionview (4.2.6) lib/action_view/renderer/renderer.rb:46:in `render_template'
+  actionview (4.2.6) lib/action_view/renderer/renderer.rb:27:in `render'
+  actionview (4.2.6) lib/action_view/rendering.rb:100:in `_render_template'
+  actionpack (4.2.6) lib/action_controller/metal/streaming.rb:217:in `_render_template'
+  actionview (4.2.6) lib/action_view/rendering.rb:83:in `render_to_body'
+  actionpack (4.2.6) lib/action_controller/metal/rendering.rb:32:in `render_to_body'
+  actionpack (4.2.6) lib/action_controller/metal/renderers.rb:37:in `render_to_body'
+  actionpack (4.2.6) lib/abstract_controller/rendering.rb:25:in `render'
+  actionpack (4.2.6) lib/action_controller/metal/rendering.rb:16:in `render'
+  actionpack (4.2.6) lib/action_controller/metal/instrumentation.rb:44:in `block (2 levels) in render'
+  activesupport (4.2.6) lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+  /usr/local/lib/ruby/2.3.0/benchmark.rb:308:in `realtime'
+  activesupport (4.2.6) lib/active_support/core_ext/benchmark.rb:12:in `ms'
+  actionpack (4.2.6) lib/action_controller/metal/instrumentation.rb:44:in `block in render'
+  actionpack (4.2.6) lib/action_controller/metal/instrumentation.rb:87:in `cleanup_view_runtime'
+  actionpack (4.2.6) lib/action_controller/metal/instrumentation.rb:43:in `render'
+  actionpack (4.2.6) lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+  actionpack (4.2.6) lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+  actionpack (4.2.6) lib/abstract_controller/base.rb:198:in `process_action'
+  actionpack (4.2.6) lib/action_controller/metal/rendering.rb:10:in `process_action'
+  actionpack (4.2.6) lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+  activesupport (4.2.6) lib/active_support/callbacks.rb:117:in `call'
+  activesupport (4.2.6) lib/active_support/callbacks.rb:555:in `block (2 levels) in compile'
+  activesupport (4.2.6) lib/active_support/callbacks.rb:505:in `call'
+  activesupport (4.2.6) lib/active_support/callbacks.rb:92:in `__run_callbacks__'
+  activesupport (4.2.6) lib/active_support/callbacks.rb:778:in `_run_process_action_callbacks'
+  activesupport (4.2.6) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.6) lib/abstract_controller/callbacks.rb:19:in `process_action'
+  actionpack (4.2.6) lib/action_controller/metal/rescue.rb:29:in `process_action'
+  actionpack (4.2.6) lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+  activesupport (4.2.6) lib/active_support/notifications.rb:164:in `block in instrument'
+  activesupport (4.2.6) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.2.6) lib/active_support/notifications.rb:164:in `instrument'
+  actionpack (4.2.6) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+  actionpack (4.2.6) lib/action_controller/metal/params_wrapper.rb:250:in `process_action'
+  actionpack (4.2.6) lib/abstract_controller/base.rb:137:in `process'
+  actionview (4.2.6) lib/action_view/rendering.rb:30:in `process'
+  actionpack (4.2.6) lib/action_controller/metal.rb:196:in `dispatch'
+  actionpack (4.2.6) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.2.6) lib/action_controller/metal.rb:237:in `block in action'
+  actionpack (4.2.6) lib/action_dispatch/routing/route_set.rb:74:in `dispatch'
+  actionpack (4.2.6) lib/action_dispatch/routing/route_set.rb:43:in `serve'
+  actionpack (4.2.6) lib/action_dispatch/journey/router.rb:43:in `block in serve'
+  actionpack (4.2.6) lib/action_dispatch/journey/router.rb:30:in `serve'
+  actionpack (4.2.6) lib/action_dispatch/routing/route_set.rb:817:in `call'
+  rack (1.6.4) lib/rack/etag.rb:24:in `call'
+  rack (1.6.4) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.6.4) lib/rack/head.rb:13:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/flash.rb:260:in `call'
+  rack (1.6.4) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.6.4) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.6) lib/active_support/callbacks.rb:88:in `__run_callbacks__'
+  activesupport (4.2.6) lib/active_support/callbacks.rb:778:in `_run_call_callbacks'
+  activesupport (4.2.6) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.6) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  better_errors (2.1.1) lib/better_errors/middleware.rb:84:in `protected_app_call'
+  better_errors (2.1.1) lib/better_errors/middleware.rb:79:in `better_errors_call'
+  better_errors (2.1.1) lib/better_errors/middleware.rb:57:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.6) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.6) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.6) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.6) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.6) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.6) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.6) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/static.rb:120:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.6) lib/rails/engine.rb:518:in `call'
+  railties (4.2.6) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /usr/local/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /usr/local/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /usr/local/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+
+Started POST "/__better_errors/dfc4f24fee39cb63/variables" for 127.0.0.1 at 2016-05-29 14:53:42 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:53:58 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered application/_navigation.html.erb (0.0ms)
+  Rendered application/_header.html.erb (1.5ms)
+Completed 200 OK in 60ms (Views: 59.0ms)
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 14:53:58 +0100
+
+
+Started GET "/assets/header.self-fd8abf112353c1c1542aad1412d3be07f465f297572627ac40ceba568830eeac.css?body=1" for 127.0.0.1 at 2016-05-29 14:53:58 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 14:53:58 +0100
+
+
+Started GET "/assets/navigation.self-37997704d7083f02d4205d4e18a36eef761c9e1859e64edf54e40a880ce2d75c.css?body=1" for 127.0.0.1 at 2016-05-29 14:53:58 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 14:53:58 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 14:53:58 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:54:14 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered application/_navigation.html.erb (0.0ms)
+  Rendered application/_header.html.erb (1.0ms)
+Completed 200 OK in 50ms (Views: 49.6ms)
+
+
+Started GET "/assets/header.self-017f917a15a456a1b87f8f47b5e4147b53feae86fc3022a51b60f1ed72a77055.css?body=1" for 127.0.0.1 at 2016-05-29 14:54:14 +0100
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 14:54:14 +0100
+
+
+Started GET "/assets/navigation.self-37997704d7083f02d4205d4e18a36eef761c9e1859e64edf54e40a880ce2d75c.css?body=1" for 127.0.0.1 at 2016-05-29 14:54:14 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 14:54:14 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 14:54:14 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 14:54:14 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:54:16 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered application/_navigation.html.erb (0.0ms)
+  Rendered application/_header.html.erb (1.0ms)
+Completed 200 OK in 30ms (Views: 29.1ms)
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 14:54:16 +0100
+
+
+Started GET "/assets/header.self-017f917a15a456a1b87f8f47b5e4147b53feae86fc3022a51b60f1ed72a77055.css?body=1" for 127.0.0.1 at 2016-05-29 14:54:16 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 14:54:16 +0100
+
+
+Started GET "/assets/navigation.self-37997704d7083f02d4205d4e18a36eef761c9e1859e64edf54e40a880ce2d75c.css?body=1" for 127.0.0.1 at 2016-05-29 14:54:16 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 14:54:16 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 14:54:16 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:54:31 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered application/_navigation.html.erb (0.1ms)
+  Rendered application/_header.html.erb (2.0ms)
+Completed 200 OK in 25ms (Views: 24.3ms)
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 14:54:31 +0100
+
+
+Started GET "/assets/navigation.self-37997704d7083f02d4205d4e18a36eef761c9e1859e64edf54e40a880ce2d75c.css?body=1" for 127.0.0.1 at 2016-05-29 14:54:31 +0100
+
+
+Started GET "/assets/header.self-017f917a15a456a1b87f8f47b5e4147b53feae86fc3022a51b60f1ed72a77055.css?body=1" for 127.0.0.1 at 2016-05-29 14:54:31 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 14:54:31 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 14:54:31 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 14:54:31 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:54:32 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered application/_navigation.html.erb (0.0ms)
+  Rendered application/_header.html.erb (1.3ms)
+Completed 200 OK in 25ms (Views: 23.8ms)
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 14:54:32 +0100
+
+
+Started GET "/assets/header.self-017f917a15a456a1b87f8f47b5e4147b53feae86fc3022a51b60f1ed72a77055.css?body=1" for 127.0.0.1 at 2016-05-29 14:54:32 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 14:54:32 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 14:54:32 +0100
+
+
+Started GET "/assets/navigation.self-37997704d7083f02d4205d4e18a36eef761c9e1859e64edf54e40a880ce2d75c.css?body=1" for 127.0.0.1 at 2016-05-29 14:54:32 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 14:54:32 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:54:54 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered application/_navigation.html.erb (0.0ms)
+  Rendered application/_header.html.erb (1.2ms)
+Completed 200 OK in 67ms (Views: 65.9ms)
+
+
+Started GET "/assets/header.self-c8aef6ec8314c15da4b3798084bc9d268a11a5334dadfb82ee9a8b479101e4f7.css?body=1" for 127.0.0.1 at 2016-05-29 14:54:54 +0100
+
+
+Started GET "/assets/navigation.self-37997704d7083f02d4205d4e18a36eef761c9e1859e64edf54e40a880ce2d75c.css?body=1" for 127.0.0.1 at 2016-05-29 14:54:54 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 14:54:54 +0100
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 14:54:54 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 14:54:54 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 14:54:54 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:56:19 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered application/_navigation.html.erb (0.4ms)
+  Rendered application/_header.html.erb (1.5ms)
+Completed 200 OK in 57ms (Views: 56.2ms)
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 14:56:20 +0100
+
+
+Started GET "/assets/header.self-c8aef6ec8314c15da4b3798084bc9d268a11a5334dadfb82ee9a8b479101e4f7.css?body=1" for 127.0.0.1 at 2016-05-29 14:56:20 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 14:56:20 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 14:56:20 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 14:56:20 +0100
+
+
+Started GET "/assets/navigation.self-c40be6994167976c11d59917c954fe2d43a96cf0f82cc0014e1c5ebb01fd9e05.css?body=1" for 127.0.0.1 at 2016-05-29 14:56:20 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:56:21 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+  Rendered application/_navigation.html.erb (0.0ms)
+  Rendered application/_header.html.erb (0.7ms)
+Completed 200 OK in 14ms (Views: 13.6ms)
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 14:56:21 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 14:56:21 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 14:56:21 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 14:56:21 +0100
+
+
+Started GET "/assets/header.self-c8aef6ec8314c15da4b3798084bc9d268a11a5334dadfb82ee9a8b479101e4f7.css?body=1" for 127.0.0.1 at 2016-05-29 14:56:21 +0100
+
+
+Started GET "/assets/navigation.self-c40be6994167976c11d59917c954fe2d43a96cf0f82cc0014e1c5ebb01fd9e05.css?body=1" for 127.0.0.1 at 2016-05-29 14:56:21 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:57:06 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered application/_navigation.html.erb (0.0ms)
+  Rendered application/_header.html.erb (1.2ms)
+Completed 200 OK in 57ms (Views: 56.5ms)
+
+
+Started GET "/assets/navigation.self-64acc47dd903ffee4d86125705725b3e75a1f2209d2e30a40f006578a8f9322f.css?body=1" for 127.0.0.1 at 2016-05-29 14:57:06 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 14:57:06 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 14:57:06 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 14:57:06 +0100
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 14:57:06 +0100
+
+
+Started GET "/assets/header.self-c8aef6ec8314c15da4b3798084bc9d268a11a5334dadfb82ee9a8b479101e4f7.css?body=1" for 127.0.0.1 at 2016-05-29 14:57:06 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:57:07 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered application/_navigation.html.erb (0.0ms)
+  Rendered application/_header.html.erb (1.0ms)
+Completed 200 OK in 20ms (Views: 18.8ms)
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 14:57:07 +0100
+
+
+Started GET "/assets/navigation.self-64acc47dd903ffee4d86125705725b3e75a1f2209d2e30a40f006578a8f9322f.css?body=1" for 127.0.0.1 at 2016-05-29 14:57:07 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 14:57:07 +0100
+
+
+Started GET "/assets/header.self-c8aef6ec8314c15da4b3798084bc9d268a11a5334dadfb82ee9a8b479101e4f7.css?body=1" for 127.0.0.1 at 2016-05-29 14:57:07 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 14:57:07 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 14:57:07 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:57:17 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered application/_navigation.html.erb (0.0ms)
+  Rendered application/_header.html.erb (1.1ms)
+Completed 200 OK in 61ms (Views: 60.3ms)
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 14:57:17 +0100
+
+
+Started GET "/assets/navigation.self-c72fabefaf97009e109e922d917ec5c9e3d122a7e558a222da9bcd8756eba251.css?body=1" for 127.0.0.1 at 2016-05-29 14:57:17 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 14:57:17 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 14:57:17 +0100
+
+
+Started GET "/assets/header.self-c8aef6ec8314c15da4b3798084bc9d268a11a5334dadfb82ee9a8b479101e4f7.css?body=1" for 127.0.0.1 at 2016-05-29 14:57:17 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 14:57:17 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:57:18 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered application/_navigation.html.erb (0.1ms)
+  Rendered application/_header.html.erb (1.7ms)
+Completed 200 OK in 29ms (Views: 27.6ms)
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 14:57:18 +0100
+
+
+Started GET "/assets/navigation.self-c72fabefaf97009e109e922d917ec5c9e3d122a7e558a222da9bcd8756eba251.css?body=1" for 127.0.0.1 at 2016-05-29 14:57:18 +0100
+
+
+Started GET "/assets/header.self-c8aef6ec8314c15da4b3798084bc9d268a11a5334dadfb82ee9a8b479101e4f7.css?body=1" for 127.0.0.1 at 2016-05-29 14:57:18 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 14:57:18 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 14:57:18 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 14:57:18 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 14:57:45 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered application/_navigation.html.erb (0.0ms)
+  Rendered application/_header.html.erb (1.1ms)
+Completed 200 OK in 62ms (Views: 60.5ms)
+
+
+Started GET "/assets/navigation.self-dfc0ce3b5a44d75241f660fdcc3a9a2810f330a5281891f72810d56d7fdaa4bb.css?body=1" for 127.0.0.1 at 2016-05-29 14:57:45 +0100
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 14:57:45 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 14:57:45 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 14:57:45 +0100
+
+
+Started GET "/assets/header.self-c8aef6ec8314c15da4b3798084bc9d268a11a5334dadfb82ee9a8b479101e4f7.css?body=1" for 127.0.0.1 at 2016-05-29 14:57:45 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 14:57:45 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 15:18:05 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered application/_navigation.html.erb (0.0ms)
+  Rendered application/_header.html.erb (0.8ms)
+Completed 200 OK in 42ms (Views: 41.7ms)
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 15:18:05 +0100
+
+
+Started GET "/assets/navigation.self-054900d7dfabd7a8b154f32b56ab0537c5f6be5e9d1cd4002f42b74a4fb0b5a9.css?body=1" for 127.0.0.1 at 2016-05-29 15:18:05 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 15:18:05 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 15:18:05 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 15:18:05 +0100
+
+
+Started GET "/assets/header.self-c8aef6ec8314c15da4b3798084bc9d268a11a5334dadfb82ee9a8b479101e4f7.css?body=1" for 127.0.0.1 at 2016-05-29 15:18:05 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-29 15:18:27 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered application/_navigation.html.erb (0.0ms)
+  Rendered application/_header.html.erb (0.7ms)
+Completed 200 OK in 36ms (Views: 35.1ms)
+
+
+Started GET "/assets/header.self-5a3e3e4e465f1bb04f049ab7f46cfa656c4771e93ce3e24d630746f326e32cba.css?body=1" for 127.0.0.1 at 2016-05-29 15:18:27 +0100
+
+
+Started GET "/assets/navigation.self-054900d7dfabd7a8b154f32b56ab0537c5f6be5e9d1cd4002f42b74a4fb0b5a9.css?body=1" for 127.0.0.1 at 2016-05-29 15:18:27 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-05-29 15:18:27 +0100
+
+
+Started GET "/assets/application.self-960c17ffc33b0ea1e859cd5085346499fb743f4437aad1a350b9d24ae605b430.css?body=1" for 127.0.0.1 at 2016-05-29 15:18:27 +0100
+
+
+Started GET "/assets/content.self-a98bc87a078b828292751aac98b238ec0b71cc107452e2db215cb65372f27662.css?body=1" for 127.0.0.1 at 2016-05-29 15:18:27 +0100
+
+
+Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 127.0.0.1 at 2016-05-29 15:18:27 +0100
